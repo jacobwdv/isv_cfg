@@ -8,8 +8,8 @@ app:
       value: "-DenvironmentType=stage"
   variables:
     - name: discoveryEndpoint
-      value: "CHANGE_ME"
+      value: "https://jacobwdv-09262024.verify.ibm.com/oidc/endpoint/default/.well-known/openid-configuration"
     - name: clientId
-      value: "CHANGE_ME"
+      value: "18dc5a06-3a8c-4338-8559-452b54e14866"
   version: "5438296d-49d3-4e87-9e8a-7f2e87c34f68"
   java: 17
