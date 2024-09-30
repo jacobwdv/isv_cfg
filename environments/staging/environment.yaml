@@ -14,4 +14,4 @@ app:
     - name: clientId
       value: "18dc5a06-3a8c-4338-8559-452b54e14866"
   version: "5438296d-49d3-4e87-9e8a-7f2e87c34f68"
-  java: 17
+#  java: 17
