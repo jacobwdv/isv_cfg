@@ -1,7 +1,6 @@
 version: 1.0
 app:
   instances:
-  
     min: 1
     max: 2
   env:
@@ -12,5 +11,5 @@ app:
       value: "https://jacobwdv-09262024.verify.ibm.com/oidc/endpoint/default/.well-known/openid-configuration"
     - name: clientId
       value: "18dc5a06-3a8c-4338-8559-452b54e14866"
-  version: "a85eb91b-407e-464e-b68a-2d90015e9003"
+  version: "a98a2485-aea9-44c9-8f41-c83d9ae1bc63"
   java: 17
