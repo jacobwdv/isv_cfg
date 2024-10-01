@@ -12,5 +12,5 @@ app:
       value: "https://jacobwdv-09302024.verify.ibm.com/oidc/endpoint/default/.well-known/openid-configuration"
     - name: clientId
       value: "0dbe576e-8e5f-419f-a9a4-f79504daa11b"
-  version: "d25a21e7-b6b5-41d7-a929-c2aa4a08f90a"
+  version: "2070f32d-a7d4-49b7-b2a5-c07b9d12c195"
   java: 17
